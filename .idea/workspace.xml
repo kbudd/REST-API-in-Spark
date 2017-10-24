@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="964821b1-8a80-4d6e-8ed1-73255d7e061d" name="Default" comment="10/24: Adding the ReviewDao and associated tests">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oReviewDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oReviewDaoTest.java" />
+    <list default="true" id="964821b1-8a80-4d6e-8ed1-73255d7e061d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java" afterPath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java" />
     </list>
     <ignored path="course-reviews.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,25 +44,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sql2oReviewDao.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oReviewDao.java">
+      <file leaf-file-name="Api.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="526">
+              <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sql2oReviewDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oReviewDaoTest.java">
+      <file leaf-file-name="ApiTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="871">
+              <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -439,12 +437,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/CourseDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oCourseDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oCourseDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/teamtreehouse/testing/ApiResponse.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/teamtreehouse/testing/ApiClient.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oReviewDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oReviewDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java" />
       </list>
     </option>
   </component>
@@ -581,40 +579,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course-reviews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course-reviews" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teamtreehouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -844,6 +808,32 @@
       <option name="MAIN_CLASS_NAME" value="com.teamtreehouse.courses.dao.Sql2oReviewDaoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ApiTest.addingReviewGivesCreatedStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.teamtreehouse.courses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="course-reviews_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.teamtreehouse.courses" />
+      <option name="MAIN_CLASS_NAME" value="com.teamtreehouse.courses.ApiTest" />
+      <option name="METHOD_NAME" value="addingReviewGivesCreatedStatus" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -1109,18 +1099,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Api" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.All in course-reviews_test" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.Sql2oCourseDaoTest" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.Sql2oReviewDaoTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ApiTest.addingReviewGivesCreatedStatus" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.All in course-reviews_test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Sql2oReviewDaoTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Sql2oCourseDaoTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Api" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ApiTest.addingReviewGivesCreatedStatus" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Api" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Sql2oReviewDaoTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Sql2oCourseDaoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1166,39 +1158,46 @@
       <option name="project" value="LOCAL" />
       <updated>1508872146517</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="10/24: Adding the ReviewDao and associated tests">
+      <created>1508876517499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508876517499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 00m 45s.xml">
-      <configuration name="All in course-reviews_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 03m 36s.xml">
-      <configuration name="All in course-reviews_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 03m 40s.xml">
-      <configuration name="All in course-reviews_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 13m 49s.xml">
-      <configuration name="All in course-reviews_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 16m 43s.xml">
-      <configuration name="All in course-reviews_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 17m 46s.xml">
-      <configuration name="All in course-reviews_test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_course-reviews_test - 2017.10.24 at 16h 19m 04s.xml">
       <configuration name="All in course-reviews_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sql2oReviewDaoTest - 2017.10.24 at 16h 11m 24s.xml">
-      <configuration name="Sql2oReviewDaoTest" configurationId="JUnit" />
+    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 17h 01m 16s.xml">
+      <configuration name="All in course-reviews_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sql2oReviewDaoTest - 2017.10.24 at 16h 13m 21s.xml">
-      <configuration name="Sql2oReviewDaoTest" configurationId="JUnit" />
+    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 17h 09m 51s.xml">
+      <configuration name="All in course-reviews_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Sql2oReviewDaoTest - 2017.10.24 at 16h 13m 30s.xml">
-      <configuration name="Sql2oReviewDaoTest" configurationId="JUnit" />
+    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 17h 10m 32s.xml">
+      <configuration name="All in course-reviews_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 17h 11m 43s.xml">
+      <configuration name="All in course-reviews_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_course-reviews_test - 2017.10.24 at 17h 18m 50s.xml">
+      <configuration name="All in course-reviews_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_addingReviewGivesCreatedStatus - 2017.10.24 at 17h 01m 57s.xml">
+      <configuration name="ApiTest.addingReviewGivesCreatedStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_addingReviewGivesCreatedStatus - 2017.10.24 at 17h 05m 15s.xml">
+      <configuration name="ApiTest.addingReviewGivesCreatedStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_addingReviewGivesCreatedStatus - 2017.10.24 at 17h 06m 15s.xml">
+      <configuration name="ApiTest.addingReviewGivesCreatedStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_addingReviewGivesCreatedStatus - 2017.10.24 at 17h 08m 55s.xml">
+      <configuration name="ApiTest.addingReviewGivesCreatedStatus" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1253,7 +1252,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="6" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1402,16 +1401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/exc/ApiError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1433,16 +1422,6 @@
         <state relative-caret-position="210">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1538,12 +1517,12 @@
         <state relative-caret-position="193">
           <caret line="308" column="0" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
           <folding>
-            <element signature="e#2542#2543#0" expanded="true" />
-            <element signature="e#2586#2587#0" expanded="true" />
-            <element signature="e#9008#9147#0" expanded="true" />
-            <element signature="e#9146#9147#0" expanded="true" />
-            <element signature="e#9300#9448#0" expanded="true" />
-            <element signature="e#9447#9448#0" expanded="true" />
+            <element signature="e#2542#2543#0" expanded="false" />
+            <element signature="e#2586#2587#0" expanded="false" />
+            <element signature="e#9008#9147#0" expanded="false" />
+            <element signature="e#9146#9147#0" expanded="false" />
+            <element signature="e#9300#9448#0" expanded="false" />
+            <element signature="e#9447#9448#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1553,8 +1532,8 @@
         <state relative-caret-position="480">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
-            <element signature="e#1317#1512#0" expanded="true" />
-            <element signature="e#1511#1512#0" expanded="true" />
+            <element signature="e#1317#1512#0" expanded="false" />
+            <element signature="e#1511#1512#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1567,24 +1546,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oReviewDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oReviewDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oReviewDao.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="871">
+          <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
           </folding>
         </state>
       </provider>
