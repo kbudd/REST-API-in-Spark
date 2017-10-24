@@ -13,4 +13,5 @@ public interface CourseDao {
 
     List<Course> findAll();
 
+    Course findById(int id);
 }
