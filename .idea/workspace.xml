@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="964821b1-8a80-4d6e-8ed1-73255d7e061d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/Api.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/ApiTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/testing/ApiClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/testing/ApiResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/teamtreehouse/courses/dao/CourseDao.class" afterPath="$PROJECT_DIR$/build/classes/main/com/teamtreehouse/courses/dao/CourseDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/teamtreehouse/courses/dao/Sql2oCourseDao.class" afterPath="$PROJECT_DIR$/build/classes/main/com/teamtreehouse/courses/dao/Sql2oCourseDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/com/teamtreehouse/courses/dao/Sql2oCourseDaoTest.class" afterPath="$PROJECT_DIR$/build/classes/test/com/teamtreehouse/courses/dao/Sql2oCourseDaoTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/course-reviews_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/course-reviews_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/course-reviews_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/course-reviews_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/REST-API-in-Spark/.idea/workspace.xml" afterPath="$PROJECT_DIR$/REST-API-in-Spark/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/CourseDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/CourseDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oCourseDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/teamtreehouse/courses/dao/Sql2oCourseDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oCourseDaoTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/teamtreehouse/courses/dao/Sql2oCourseDaoTest.java" />
     </list>
     <ignored path="course-reviews.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1147,6 +1131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507742960066</updated>
     </task>
+    <task id="LOCAL-00001" summary="10/24: Updates through video 7. &#10; - ApiTest.java will have 1 failing test case with this commit">
+      <created>1508856580278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508856580278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1190,9 +1182,9 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.50190526" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.4980947" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39447004" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1222,6 +1214,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10/24: Updates through video 7. &#10; - ApiTest.java will have 1 failing test case with this commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/24: Updates through video 7. &#10; - ApiTest.java will have 1 failing test case with this commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
